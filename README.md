@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xAd3l1N
-- 👀 I’m interested in automation, AI.
+- 👀 I’m interested in automation, AI and making games.
 - 🌱 I’m currently learning Python.
 
 <!---
